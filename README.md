@@ -1,6 +1,6 @@
 # MAILER
 
-tiny app for send mail from console.
+tiny app for sending mail from console.
 
 ## USAGE
 
