@@ -1,0 +1,11 @@
+{
+	"server": "smtp.gmail.com",
+	"port": "587",
+	"from": "my@email.com",
+	"to": "",
+	"user": "login@email.com",
+	"pass": "",
+	"subject": "",
+	"text": "",
+	"attach": []
+}
